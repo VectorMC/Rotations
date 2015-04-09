@@ -2,16 +2,4 @@ live: false
 minimum: 0.0
 maximum: 100.0
 maps:
-- AmazonII # TDM
-- SolarFrost # SG
-- DivinesCTW # CTW
-- IllegalOffice # TDM
-- FairyHills # CTH
-- Nucleus # CTW
-- ZaoII # DTM
-- CobwebHills #CTW
-- AuraValley # SG
-- GrottoArena # Walls
-- EnchantedForest # SG
-- Tarteros # CTH
-- SurvivalGames7 # SG
+- Axis
