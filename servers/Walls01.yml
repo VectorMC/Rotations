@@ -1,0 +1,11 @@
+minimum: 0.18
+maximum: 1.2
+maps:
+- BlueCove
+- WildWest
+- PiratesCove
+- LostIsland
+- Garden
+- Overworld
+- TheVillage
+- TetrisSwamp

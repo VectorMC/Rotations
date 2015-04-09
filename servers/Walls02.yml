@@ -1,0 +1,11 @@
+minimum: 0.18
+maximum: 1.2
+maps:
+- LostIsland
+- TetrisJungle
+- Lands
+- WildWest
+- Mesoplanet
+- TheVale
+- KnightsTower
+- Springwood

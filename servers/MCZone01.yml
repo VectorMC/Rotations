@@ -1,0 +1,14 @@
+# Smaller MC Zone Maps
+minimum: 0.33
+maximum: 1.2
+maps:
+- Fissura #DTM
+- Divines #CTW
+- VenomousTDM #TDM
+- Frostbite #DTM
+- Gladiator #TDM
+- Rendezvous1 #DTM
+- Senex1 #DTM
+- Ternio #DTM
+- VenomousDTM #DTM
+- Zalidor #DTM

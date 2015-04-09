@@ -1,0 +1,17 @@
+# LobbySG selects the map based on a vote.
+minimum: 0.33
+maximum: 1.2
+maps:
+- LobbySG
+selection:
+- SurvivalGames4
+- SurvivalGames5
+- Remnant
+- FlaireWoods
+- Moonbase9
+- FuturisticCity
+- ExcavationZero
+- Valis
+- DestinysShiver
+- AuraValley
+- Highway

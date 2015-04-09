@@ -1,0 +1,11 @@
+minimum: 0.18
+maximum: 1.2
+maps:
+- TetrisSwamp
+- BlueCove
+- KnightsTower
+- Garden
+- TheVillage
+- Overworld
+- TetrisWinter
+- Vanilla
