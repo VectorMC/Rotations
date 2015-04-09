@@ -11,15 +11,16 @@ task :validate do
     Dir.foreach('servers') do |item|
       next if item == '.' or item == '..'
 
-      maps += YAML.load_file('servers/' + item)["maps"]
+      maps += YAML.load_file('servers/' + item)['maps']
     end
 
     maps.uniq.each do |name|
+      puts name + '...'
       page = Net::HTTP.start('maps.avicus.net', 443, :use_ssl => true) do |http|
         http.get('/validate.php?query=' + name)
       end
 
-      if page.body != "true"
+      if page.body != 'true'
         failed += [name]
       end
     end
@@ -28,6 +29,6 @@ task :validate do
       raise failed.join(", ")
     end
   rescue Exception => e
-    puts "fail: " + e.message
+    fail "error: #{e.message}"
   end
 end
