@@ -1,4 +1,4 @@
-## Avicus Rotations ![Build Status](https://travis-ci.org/Avicus/Rotations.svg?branch=master)
+## Avicus Rotations [![Build Status](https://travis-ci.org/Avicus/Rotations.svg?branch=master)](https://travis-ci.org/Avicus/Rotations)
 
 This repository stores configuration files for the servers on The Avicus Network. Each file listed under the "servers" directory corresponds to a server on Avicus and contains the information for that server.
 
