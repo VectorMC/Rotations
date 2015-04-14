@@ -2,10 +2,10 @@ minimum: 0.25
 maximum: 1.2
 maps:
 - CastleAdventure
-- Senex2
-- Rendezvous1
+- Infernus1
+- Radiation
 - Vesper
 - Yalahar
-- Formorgar2
-- Waterworld
 - Rendezvous1
+- AlphaComplex
+- Formorgar1
