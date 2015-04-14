@@ -2,13 +2,13 @@ minimum: 0.25
 maximum: 1.2
 maps:
 - Rendezvous2 #DTM
-- Sandstorm #DTM
+- Unix #DTM
 - Mistrock #DTM
 - Rendezvous1 #DTM
 - CobwebHills #CTW
 - Embers2 #DTM
 - SectorSix #DTM
-- ClayWars #DTM
+- Halcyon #DTM
 - CubeMC #CTW
 - PortTown2 #DTM
 - Infernus1 #DTM
