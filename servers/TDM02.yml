@@ -1,7 +1,6 @@
 minimum: 0.33
 maximum: 1.2
 maps:
-- BrimstoneIslandTDM
 - AlexandersCanyon
 - ScorchedEarthTDM
 - Spookghetti
@@ -11,7 +10,6 @@ maps:
 - Azeron
 - Raptors
 - Frozen
-- Zao1
 - EchoValleyTDM
 - Zao2
 - Eclipse
