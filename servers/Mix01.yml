@@ -2,13 +2,13 @@ minimum: 0.25
 maximum: 1.2
 maps:
 - Divines #CTW
-- Consilium #DTM
-- Vesper #DTM
 - Justice1 #DTM
+- Vesper #DTM
+- CastleAdventure #DTM
 - Arizona #CTW
 - DryHeaven1 #DTM
 - Yellowstone #DTM
-- CastleAdventure #DTM
+- Justice2 #DTM
 - Dreadlock #CTW
 - Candyland2 #DTM
 - CrescentSubtle #DTM
