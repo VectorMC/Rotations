@@ -1,6 +1,7 @@
 minimum: 0.25
 maximum: 1.2
 maps:
+- MuteCity1
 - Mystic
 - Senex2
 - Justice1
@@ -8,3 +9,4 @@ maps:
 - Revixit1
 - Unix
 - HyperParadise
+- ClayWars
