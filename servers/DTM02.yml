@@ -2,16 +2,8 @@ minimum: 0.25
 maximum: 1.2
 maps:
 - CastleAdventure
-<<<<<<< HEAD
-- Senex2
-- Rendezvous1
-- Trinity
-- CherrylandMC
-- Revixit2
-=======
 - Infernus1
 - Radiation
->>>>>>> origin/master
 - Vesper
 - Yalahar
 - Rendezvous1
