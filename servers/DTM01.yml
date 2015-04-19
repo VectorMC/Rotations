@@ -1,15 +1,12 @@
 minimum: 0.25
 maximum: 1.2
 maps:
+- MuteCity1
 - Mystic
+- Senex2
 - Justice1
 - Embers1
-- Luar
-- Infernus1
-- CampiErbosi
 - Revixit1
-- Butterfly
 - Unix
 - HyperParadise
-- Formorgar1
-- Lesenct
+- ClayWars

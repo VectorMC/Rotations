@@ -1,16 +1,20 @@
 minimum: 0.25
 maximum: 1.2
 maps:
-- Justice2
 - CastleAdventure
+<<<<<<< HEAD
 - Senex2
 - Rendezvous1
 - Trinity
 - CherrylandMC
 - Revixit2
+=======
+- Infernus1
+- Radiation
+>>>>>>> origin/master
 - Vesper
 - Yalahar
-- Candyland1
-- Sandstorm
-- Formorgar2
-- Waterworld
+- Rendezvous1
+- AlphaComplex
+- Formorgar1
+- SunbeamTemple
