@@ -2,14 +2,17 @@ minimum: 0.25
 maximum: 1.2
 maps:
 - Nucleus
+- Crossfire
 - Brushwoods
 - Taurtis
 - Rendezvous2
 - Divines
 - Justice3
 - Lotus
+- BreakOut
 - Arizona
 - CobwebHills
 - CubeMC
 - Sanatorium
 - Dreadlock
+- CarneVale
