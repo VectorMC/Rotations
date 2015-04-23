@@ -1,16 +1,19 @@
 minimum: 0.25
 maximum: 1.2
 maps:
-- Taurtis #CTW
-- MuteCity2 #DTM
 - Senex2 #DTM
-- Radiation #DTM
+- Taurtis #CTW
+- Embers1 #DTM
+- SectorSix #DTM
 - Sanatorium #CTW
-- CrescentSubtle #DTM
-- AlphaComplex #DTM
 - DryHeaven2 #DTM
+- Rendezvous3 #DTM
 - Lotus #CTW
+- Trinity #DTM
 - Formorgar1 #DTM
-- Senex3 #DTM
-- CrescentChaos #DTM
 - Brushwoods #CTW
+- Senex3 #DTM
+- Candyland2 #DTM
+- Crossfire #CTW
+- ClayWars #DTM
+
