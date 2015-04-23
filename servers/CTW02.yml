@@ -1,6 +1,8 @@
 minimum: 0.25
 maximum: 1.2
 maps:
+- CarneVale
+- Crossfire
 - CubeMC
 - Taurtis
 - Nucleus
@@ -8,6 +10,7 @@ maps:
 - Justice3
 - Dreadlock
 - Lotus
+- BreakOut
 - Arizona
 - Rendezvous2
 - CobwebHills
