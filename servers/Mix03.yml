@@ -1,16 +1,18 @@
 minimum: 0.25
 maximum: 1.2
 maps:
-- Rendezvous2 #CTW
-- Unix #DTM
-- Mistrock #DTM
 - Rendezvous1 #DTM
+- Divines #CTW
+- PortTown1 #DTM
+- CrescentSubtle #DTM
 - CobwebHills #CTW
-- Embers2 #DTM
-- SectorSix #DTM
-- Rendezvous3 #DTM
-- CubeMC #CTW
-- PortTown2 #DTM
-- Infernus1 #DTM
-- ClayWars #DTM
+- Unix #DTM
+- Radiation #DTM
+- Dreadlock #CTW
+- MuteCity2 #DTM
+- Yellowstone #DTM
 - Nucleus #CTW
+- DryHeaven1 #DTM
+- Mistrock #DTM
+- BreakOut #CTW
+- Vesper #DTM
