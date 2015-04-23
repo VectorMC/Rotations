@@ -1,16 +1,18 @@
 minimum: 0.25
 maximum: 1.2
 maps:
-- Divines #CTW
+- AlphaComplex #DTM
+- Rendezvous2 #CTW
 - Justice1 #DTM
-- Vesper #DTM
 - CastleAdventure #DTM
 - Arizona #CTW
-- DryHeaven1 #DTM
-- Yellowstone #DTM
+- CrescentChaos #DTM
 - Justice2 #DTM
-- Dreadlock #CTW
+- CubeMC #CTW
 - Clearmont #DTM
-- Candyland2 #DTM
-- SunbeamTemple #DTM
+- Embers2 #DTM
 - Justice3 #CTW
+- Infernus1 #DTM
+- PortTown2 #DTM
+- CarneVale #CTW
+- SunbeamTemple #DTM
