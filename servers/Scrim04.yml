@@ -3,6 +3,9 @@ maximum: 1.2
 scrimmage: true
 maps:
 - BoundariesTE
-- RubyJungleTE
-- SteampunkTE
+- CastleAdventureTE
+- CretaTE
 - DispatchTE
+- DreamtimeTE
+- Rendezvous3TE
+- SunbeamTempleTE
