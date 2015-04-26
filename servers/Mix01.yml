@@ -2,6 +2,7 @@ minimum: 0.25
 maximum: 1.2
 maps:
 - AlphaComplex #DTM
+- IllegalOffice #TDM
 - Rendezvous2 #CTW
 - Justice1 #DTM
 - CastleAdventure #DTM
@@ -15,4 +16,5 @@ maps:
 - Infernus1 #DTM
 - PortTown2 #DTM
 - CarneVale #CTW
+- Zao1 #TDM
 - SunbeamTemple #DTM
