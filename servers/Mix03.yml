@@ -2,6 +2,7 @@ minimum: 0.25
 maximum: 1.2
 maps:
 - Rendezvous1 #DTM
+- EchoValleyTDM #TDM
 - Divines #CTW
 - PortTown1 #DTM
 - CrescentSubtle #DTM
@@ -15,4 +16,5 @@ maps:
 - DryHeaven1 #DTM
 - Mistrock #DTM
 - BreakOut #CTW
+- Azeron #TDM
 - Vesper #DTM
