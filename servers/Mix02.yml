@@ -2,6 +2,7 @@ minimum: 0.25
 maximum: 1.2
 maps:
 - Senex2 #DTM
+- Spookghetti #TDM
 - Taurtis #CTW
 - Embers1 #DTM
 - SectorSix #DTM
@@ -15,4 +16,5 @@ maps:
 - Senex3 #DTM
 - Candyland2 #DTM
 - Crossfire #CTW
+- ScorchedEartHTDM #TDM
 - ClayWars #DTM
