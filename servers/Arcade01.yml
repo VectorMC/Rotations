@@ -1,0 +1,9 @@
+minimum: 0.33
+maximum: 1.0
+maps:
+- Onyx
+- Onyx
+- Onyx
+selection:
+- Elosis
+- BlizzardSnake
