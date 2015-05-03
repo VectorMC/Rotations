@@ -2,6 +2,7 @@ minimum: 0.00
 maximum: 1.2
 scrimmage: true
 maps:
+- EnokiTE
 - BoundariesTE
 - CastleAdventureTE
 - CretaTE
