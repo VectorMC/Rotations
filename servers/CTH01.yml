@@ -1,9 +1,13 @@
 minimum: 0.10
 maximum: 1.2
 maps:
+- Forerunner
 - Starburst
-- Necro
 - Quicksand
-- FairyHills
 - Polarix
 - TheFall
+- FairyHills
+- Magma
+- Necro
+- Tarteros
+- Plaza
