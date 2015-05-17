@@ -4,13 +4,15 @@ maximum: 1.2
 maps:
 - LobbySG
 selection:
-- SurvivalGames2
+- BreezeIsland
+- DestinysShiver
+- ForsakenAscension
+- FortressPyke
+- Moonbase9
+- MoonlightLake
+- Remnant
 - SurvivalGames1
-- Chernobyl2015
-- SunsetValley
-- RapturousDrift
-- InsanityCause
-- ShadyHollow
-- LittleHaven
-- SurvivalGames7
-- DryBoneValley
+- SurvivalGames3
+- SurvivalGames4
+- SurvivalKingdom
+- WyvernsWake
