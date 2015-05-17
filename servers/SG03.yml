@@ -4,13 +4,15 @@ maximum: 1.2
 maps:
 - LobbySG
 selection:
-- SurvivalGames2
-- SurvivalGames1
-- Chernobyl2015
-- SunsetValley
-- RapturousDrift
-- InsanityCause
-- ShadyHollow
-- LittleHaven
+- AuraValley
+- Avaricia
+- DestinysShiver
+- EnchantedForest
+- FortressPyke
+- Remnant
+- SolarFrost
+- SurvivalGames4
+- SurvivalGames5
 - SurvivalGames7
-- DryBoneValley
+- SurvivalKingdom
+- WyvernsWake
