@@ -1,14 +1,14 @@
 minimum: 0.25
 maximum: 1.2
 maps:
-- SectorSix
-- MuteCity3
-- Rendezvous3
-- Senex3
+- Radiation
+- DryHeaven1
+- Clearmont1
+- Gladekeep
+- AlphaComplex
+- Infernus1
 - Halcyon
-- PalmRust
-- DryHeaven2
-- Embers2
-- PortTown2
-- Justice2
-- Mistrock
+- Unix
+- HyperParadise
+- SunbeamTemple
+- Proelium
