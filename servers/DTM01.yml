@@ -1,13 +1,14 @@
 minimum: 0.25
 maximum: 1.2
 maps:
-- HyperParadise
-- MuteCity1
-- Senex2
-- Justice1
-- Clearmont
-- Embers1
-- Revixit1
-- Mystic
-- Unix
-- ClayWars
+- Vesper
+- MuteCity3
+- Clearmont2
+- Justice2
+- PortTown2
+- Formorgar2
+- DryHeaven2
+- Rendezvous3
+- Senex3
+- Wonderland
+- Embers2
