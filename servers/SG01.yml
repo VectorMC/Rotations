@@ -4,15 +4,12 @@ maximum: 1.2
 maps:
 - LobbySG
 selection:
-- AuraValley
-- Avaricia
 - EnchantedForest
 - ExcavationZero
-- Forestside
-- Highway
 - InsanityCause
-- LittleHaven
-- RuggedLands
-- SolarFrost
-- SurvivalGames5
+- Kharmunrah
+- SurvivalGames6
 - SurvivalGames7
+- SurvivalKingdom
+- Valis
+- WyvernsWake
