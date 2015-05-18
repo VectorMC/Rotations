@@ -1,10 +1,11 @@
 minimum: 0.18
 maximum: 1.2
 maps:
-- BlueCove
-- WildWest
-- PiratesCove
-- Garden
-- Overworld
-- TheVillage
-- TetrisSwamp
+- TetrisJungle
+- Lands
+- Mesoplanet
+- TheVale
+- KnightsTower
+- Springwood
+- TetrisWinter
+- Vanilla
