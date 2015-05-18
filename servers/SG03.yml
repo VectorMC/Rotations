@@ -4,15 +4,12 @@ maximum: 1.2
 maps:
 - LobbySG
 selection:
-- AuraValley
-- Avaricia
-- DestinysShiver
-- EnchantedForest
+- BreezeIsland
+- DryBoneValley
 - FortressPyke
-- Remnant
-- SolarFrost
+- Highway
+- HowlingMountains
+- MoonlightLake
+- SurvivalGames1
 - SurvivalGames4
-- SurvivalGames5
-- SurvivalGames7
-- SurvivalKingdom
-- WyvernsWake
+- SolarFrost
