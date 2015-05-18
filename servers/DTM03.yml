@@ -1,13 +1,14 @@
 minimum: 0.25
 maximum: 1.2
 maps:
-- PortTown1
-- Consilium
-- DryHeaven1
+- CastleAdventure
+- MuteCity2
+- Senex2
+- Embers1
 - Yellowstone
-- Rendezvous1
-- Trinity
-- Candyland2
-- CrescentSubtle
-- Formorgar2
-- Proelium
+- PortTown1
+- PalmRust
+- Mystic
+- Revixit1
+- Curabitur
+- ClayWars
