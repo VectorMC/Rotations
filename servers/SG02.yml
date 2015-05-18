@@ -4,15 +4,12 @@ maximum: 1.2
 maps:
 - LobbySG
 selection:
-- BreezeIsland
-- Chernobyl2015
+- Avaricia
 - ForsakenAscension
+- FuturisticCity
 - HolidayResort
-- LostMine
-- Moonbase9
-- MoonlightLake
-- RapturousDrift
-- SurvivalGames1
+- Remnant
+- RuggedLands
 - SurvivalGames2
 - SurvivalGames3
-- SurvivalGames6
+- ShadyHollow
