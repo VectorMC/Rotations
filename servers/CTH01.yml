@@ -2,11 +2,14 @@ minimum: 0.10
 maximum: 1.2
 maps:
 - Starburst
+- Greenwoods
 - Quicksand
 - Polarix
 - TheFall
+- Nuxe
 - FairyHills
 - Magma
-- Altaris 
+- Necro
+- Altaris
 - Tarteros
 - Plaza
