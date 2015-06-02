@@ -1,6 +1,7 @@
 minimum: 0.25
 maximum: 1.2
 maps:
+- Opulence
 - CastleAdventure
 - MuteCity2
 - Senex2
