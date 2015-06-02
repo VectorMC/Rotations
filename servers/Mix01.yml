@@ -1,19 +1,24 @@
 minimum: 0.25
 maximum: 1.2
 maps:
-- AlphaComplex #DTM
-- IllegalOffice #TDM
-- Rendezvous2 #CTW
-- Justice1 #DTM
-- CastleAdventure #DTM
-- Arizona #CTW
-- Justice2 #DTM
-- CubeMC #CTW
-- Clearmont1 #DTM
-- Embers2 #DTM
-- Justice3 #CTW
-- Infernus #DTM
+- Towers #DTM
+- MuteCity3 #DTM
 - PortTown2 #DTM
-- CarneVale #CTW
 - Zao1 #TDM
+- CubeMC #CTW
+- TheHallow #DTM
+- CrescentSubtle #DTM
+- Mistrock #DTM
+- Brushwoods #CTW
+- SectorSix #DTM
+- Yellowstone #DTM
+- Curabitur #DTM
+- Lotus #CTW
+- PalmRust #DTM
+- FossilCanyon #DTM
+- Gladekeep #DTM
+- Arizona #CTW
+- EchoValleyTDM #TDM
 - SunbeamTemple #DTM
+- Infernus #DTM
+- Unix #DTM
