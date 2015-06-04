@@ -1,10 +1,10 @@
 minimum: 0.00
 maximum: 1.2
 maps:
-- EnokiTE
-- BoundariesTE
+- SunbeamTempleTE
+- Rendezvous3TE
 - CastleAdventureTE
 - DispatchTE
 - DreamtimeTE
-- Rendezvous3TE
-- SunbeamTempleTE
+- BoundariesTE
+- EnokiTE
