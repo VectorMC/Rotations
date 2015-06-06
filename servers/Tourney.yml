@@ -1,0 +1,7 @@
+# Default for joining tournament server
+# Report errors to tourney officials
+# tm.avic.us OR /server tourney
+minimum: 0.0
+maximum: 100.0
+maps:
+- TMLobby
