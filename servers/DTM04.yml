@@ -1,16 +1,13 @@
 minimum: 0.25
 maximum: 1.2
 maps:
-- Radiation
 - FossilCanyon
 - DryHeaven1
 - Clearmont1
 - Planks
-- Gladekeep
 - AlphaComplex
 - Infernus
 - Halcyon
 - Unix
 - HyperParadise
 - SunbeamTemple
-- Proelium

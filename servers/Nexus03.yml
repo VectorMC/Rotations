@@ -1,34 +1,26 @@
 minimum: 0.10
 maximum: 1.2
 maps:
-- Amazon2 #2
-- Travincal1 #4
-- Dredmor #2
-- FeralParadise #4
-- Canyon #2
-- Scorpio #4
-- DesertedParadise #2
-- Coniculum #4
-- SundownValley #2
-- Travincal2 #4
-- Edron #2
-- MajesticSkies #4
-- Archange1 #2
-- WorldsEnd #4
-- Candoria #2
-- DragonblazePeaks2 #4
-- DragonblazePeaks1 #2
-- Travincal3 #4
-- Arkashia #2
-- Scribblewood #4
-- TropicThunder #2
-- BlockFort #4
-- Vallis #2
-- Orion #4
-- Travestia #2
-- Autumn #4
-- RubyJungleChronicles #2
-- Candyland3 #4
-- Archange2 #2
-- Oeilvert #4
-- NewHeaven #2
+- Dredmor
+- Travincal1
+- Canyon
+- FeralParadise
+- DesertedParadise
+- Scorpio
+- Archange1
+- Coniculum
+- Candoria
+- Travincal2
+- DragonblazePeaks1
+- MajesticSkies
+- Arkashia
+- WorldsEnd
+- TropicThunder
+- BlockFort
+- Vallis
+- Orion
+- Travestia
+- Autumn
+- Archange2
+- Oeilvert
+- NewHeaven

@@ -1,16 +1,9 @@
 minimum: 0.25
 maximum: 1.2
 maps:
-- Opulence
 - CastleAdventure
 - KingsFortress2
-- Senex2
-- Embers1
 - Yellowstone
-- Plague
 - PortTown1
 - PalmRust
-- Mystic
-- Revixit
 - Curabitur
-- ClayWars

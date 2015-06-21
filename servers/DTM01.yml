@@ -1,14 +1,12 @@
 minimum: 0.25
 maximum: 1.2
 maps:
-- Vesper
 - KingsFortress3
 - Clearmont2
 - Justice2
 - Bermuda
 - PortTown2
 - Formorgar2
-- DryHeaven2
 - Rendezvous3
 - Senex3
 - TheHallow
