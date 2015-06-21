@@ -4,7 +4,7 @@
 minimum: 0.00
 maximum: 1.2
 maps:
-- CastleAdventureTE
-- EnokiTE
 - BoundariesTE
+- OperationDTE
 - DreamtimeTE
+- EnokiTE
