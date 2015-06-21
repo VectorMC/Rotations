@@ -1,13 +1,12 @@
 minimum: 0.25
 maximum: 1.2
 maps:
-- FossilCanyon
-- DryHeaven1
+- CastleAdventure
 - Clearmont1
-- Planks
-- AlphaComplex
-- Infernus
-- Halcyon
-- Unix
+- Towers
+- Candyland2
 - HyperParadise
-- SunbeamTemple
+- Rendezvous3
+- Bermuda
+- TheHallow
+

@@ -1,9 +1,12 @@
 minimum: 0.25
 maximum: 1.2
 maps:
-- CastleAdventure
-- KingsFortress2
-- Yellowstone
-- PortTown1
 - PalmRust
-- Curabitur
+- KingsFortress3
+- Clearmont2
+- PortTown2
+- Wonderland
+- Unix
+- DryHeaven1
+- Senex3
+- Mistrock

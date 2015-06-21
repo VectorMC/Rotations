@@ -1,10 +1,12 @@
 minimum: 0.25
 maximum: 1.2
 maps:
-- KingsFortress1
-- Towers
-- SectorSix
-- Candyland2
+- Formorgar2
+- KingsFortress2
 - CrescentSubtle
-- Mistrock
+- Justice2
+- AlphaComplex
+- SectorSix
+- Curabitur
+- Infernus
 - Formorgar1
