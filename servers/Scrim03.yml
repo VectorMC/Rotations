@@ -2,10 +2,10 @@ minimum: 0.00
 maximum: 1.2
 scrimmage: true
 maps:
-- OperationDTE
-- CastleAdventureTE
-- EnokiTE
-- BoundariesTE
-- DreamtimeTE
-- Rendezvous3TE
-- SunbeamTempleTE
+- Operation D TE
+- Castle Adventure TE
+- Enoki TE
+- Boundaries TE
+- Dreamtime TE
+- Rendezvous 3 TE
+- Sunbeam Temple TE

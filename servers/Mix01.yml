@@ -2,23 +2,23 @@ minimum: 0.25
 maximum: 1.2
 maps:
 - Towers #DTM
-- KingsFortress3 #DTM
-- PortTown2 #DTM
-- Zao1 #TDM
+- Kings Fortress 3 #DTM
+- Port Town 2 #DTM
+- Zao 1 #TDM
 - CubeMC #CTW
-- TheHallow #DTM
-- CrescentSubtle #DTM
+- The Hallow #DTM
+- Crescent Subtle #DTM
 - Mistrock #DTM
 - Brushwoods #CTW
-- SectorSix #DTM
+- Sector Six #DTM
 - Yellowstone #DTM
 - Curabitur #DTM
-- Justice3 #CTW
-- PalmRust #DTM
-- FossilCanyon #DTM
+- Justice 3 #CTW
+- Palm Rust #DTM
+- Fossil Canyon #DTM
 - Halcyon #DTM
 - Arizona #CTW
-- IllegalOffice #TDM
-- SunbeamTemple #DTM
+- Illegal Office #TDM
+- Sunbeam Temple #DTM
 - Infernus #DTM
 - Unix #DTM

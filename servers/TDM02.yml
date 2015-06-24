@@ -1,15 +1,13 @@
 minimum: 0.33
 maximum: 1.2
 maps:
-- AlexandersCanyon
-- ScorchedEarthTDM
+- Scorched Earth TDM
 - Spookghetto
-- VenomousTDM
+- Venomous TDM
 - Scizor
 - Azeron
 - Raptors
-- Frozen
-- EchoValleyTDM
-- Zao2
+- EchoValley TDM
+- Zao 2
 - Eclipse
 - Harena

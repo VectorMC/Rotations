@@ -4,7 +4,7 @@
 minimum: 0.00
 maximum: 1.2
 maps:
-- BoundariesTE
-- OperationDTE
-- DreamtimeTE
-- EnokiTE
+- Boundaries TE
+- Operation D TE
+- Dreamtime TE
+- Enoki TE
