@@ -2,7 +2,6 @@ minimum: 0.00
 maximum: 1.2
 scrimmage: true
 maps:
-- Operation D TE
 - Castle Adventure TE
 - Enoki TE
 - Boundaries TE
