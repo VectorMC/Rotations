@@ -1,12 +1,12 @@
 minimum: 0.18
 maximum: 1.2
 maps:
-- Tetris Jungle
+- TetrisJungle
 - Lands
 - Mesoplanet
-- Grun Kaskade
-- The Vale
+- GrunKaskade
+- TheVale
 - Springwood
-- Tetris Winter
+- TetrisWinter
 - Vanilla
 - Neirus
