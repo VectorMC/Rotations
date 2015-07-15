@@ -1,12 +1,12 @@
 minimum: 0.18
 maximum: 1.2
 maps:
-- Blue Cove
+- BlueCove
 - Camelot
-- Wild West
-- Pirates Cove
+- WildWest
+- PiratesCove
 - Garden
 - Overworld
-- The Village
-- Tetris Swamp
-- Lost Island
+- TheVillage
+- TetrisSwamp
+- LostIsland
