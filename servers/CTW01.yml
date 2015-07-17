@@ -2,10 +2,10 @@ minimum: 0.25
 maximum: 1.2
 maps:
 - Arizona
-- Carne Vale
-- Rendezvous 2
-- Justice 3
-- Funky Factory
+- CarneVale
+- Rendezvous2
+- Justice3
+- FunkyFactory
 - CubeMC
-- Cobweb Hills
+- CobwebHills
 - Brushwoods
