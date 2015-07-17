@@ -2,13 +2,15 @@ minimum: 0.25
 maximum: 1.2
 maps:
 - Halcyon
-- Kings Fortress 1
-- Port Town 1
+- KingsFortress1
+- PortTown1
 - Yellowstone
-- Embers
-- Rendezvous Redux
+- Embers2
+- RendezvousRedux
 - Graylands
-- Fossil Canyon
-- Sunbeam Temple
+- FossilCanyon
+- SunbeamTemple
 - Planks
-- Northern Omens
+- Rendezvous3
+- Candyland2
+- NorthernOmens
