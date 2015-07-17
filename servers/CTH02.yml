@@ -1,9 +1,4 @@
 minimum: 0.10
 maximum: 1.2
 maps:
-- Magma
-- Polarix
-- Tarteros
-- Greenwoods
-- Quicksand
-- Altaris
+- Necro
