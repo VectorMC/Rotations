@@ -1,12 +1,16 @@
 minimum: 0.25
 maximum: 1.2
 maps:
-- Formorgar 2
-- Kings Fortress 2
-- Crescent Subtle
-- Justice 2
-- Alpha Complex
-- Sector Six
+- Formorgar2
+- Clearmont1
+- KingsFortress2
+- CrescentSubtle
+- Justice2
+- Towers
+- Tunnels
+- AlphaComplex
+- Bermuda
+- SectorSix
 - Curabitur
 - Infernus
-- Formorgar 1
+- Formorgar1
