@@ -1,12 +1,15 @@
 minimum: 0.25
 maximum: 1.2
 maps:
-- Palm Rust
-- Clearmont 2
-- Port Town 2
+- PalmRust
+- Clearmont2
+- CastleAdventure
+- PortTown2
 - Wonderland
+- TheHallow
 - Unix
-- Dry Heaven 1
-- Senex 3
+- DryHeaven1
+- HyperParadise
+- Senex3
 - Mistrock
 - CastleInTheRocks
