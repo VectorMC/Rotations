@@ -2,14 +2,25 @@ minimum: 0.10
 maximum: 1.2
 maps:
 - Dredmor
+- Travincal1
 - Canyon
-#- Deserted Paradise
-- Archange 1
+- FeralParadise
+- DesertedParadise
+- Scorpio
+- Archange1
+- Coniculum
 - Candoria
-- Dragonblaze Peaks 1
+- Travincal2
+- DragonblazePeaks1
+- MajesticSkies
 - Arkashia
-- Tropic Thunder
+- WorldsEnd
+- TropicThunder
+- BlockFort
 - Vallis
+- Orion
 - Travestia
-- Archange 2
-- New Heaven
+- Autumn
+- Archange2
+- Oeilvert
+- NewHeaven
