@@ -3,6 +3,13 @@ minimum: 0.33
 maximum: 1.2
 maps:
 - LobbySG
+- LobbySG
+- LobbySG
+- LobbySG
+- LobbySG
+- LobbySG
+- LobbySG
+- LobbySG
 selection:
 - SurvivalGames2
 - SurvivalGames1
