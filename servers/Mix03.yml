@@ -1,18 +1,4 @@
 minimum: 0.25
 maximum: 1.2
 maps:
-- Rendezvous 1 #DTM
-- Echo Valley TDM #TDM
-- Divines #CTW
-- Port Town 1 #DTM
-- Crescent Subtle #DTM
-- Cobweb Hills #CTW
-- Unix #DTM
-- Dreadlock #CTW
-- Kings Fortress 2 #DTM
-- Yellowstone #DTM
-- Nucleus #CTW
-- Dry Heaven 1 #DTM
-- Mistrock #DTM
-- Azeron #TDM
-- Vesper #DTM
+- Axis #DTM
