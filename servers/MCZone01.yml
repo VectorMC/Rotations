@@ -2,7 +2,7 @@
 minimum: 0.33
 maximum: 1.2
 maps:
-// Session 1 (Dawn)
+# Session 1 (Dawn)
 - Fissura #DTM
 - Divines #CTW
 - Senex 1 #DTM
@@ -20,7 +20,7 @@ maps:
 - Rendezvous 2 #CTW
 - Dust Devils #DTM
 - Frostbite #DTM
-// Session 2 (Dusk)
+# Session 2 (Dusk)
 - Fantasy #DTM
 - Honeycomb #DTM
 - Teres #DTM
