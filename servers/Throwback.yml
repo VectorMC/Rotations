@@ -3,7 +3,7 @@ minimum: 0.33
 maximum: 1.2
 maps:
 # Session 1 (Dawn)
-- Fissura #DTM
+- Quintus #DTM
 - Divines #CTW
 - Senex 1 #DTM
 - Ternio #DTM
@@ -14,7 +14,7 @@ maps:
 - Senex 2 #DTM
 - Rendezvous 1 #DTM
 - Castle Adventure #DTM
-- Quintus #DTM
+- Fissura #DTM
 - Crusade #DTM
 - Decay #DTM
 - Rendezvous 2 #CTW
