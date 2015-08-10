@@ -1,13 +1,13 @@
-minimum: 0.33
+minimum: 0.25
 maximum: 1.2
 maps:
 - Knuckles And Broken Goggles
-- Zao 1
+- Zao1
 - Spookghetto
-- Illegal Office
-- Zao 2
+- IllegalOffice
+- Zao2
 - Periculum
-- Gold Rush
+- GoldRush
 - Azeron
 - Harena
 - Raptors
