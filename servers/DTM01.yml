@@ -2,13 +2,13 @@ minimum: 0.25
 maximum: 1.2
 maps:
 - Halcyon
-#- KingsFortress1
-#- Yellowstone
-#- Embers2
-#- RendezvousRedux
-#- Graylands
-#- FossilCanyon
-#- SunbeamTemple
-#- Planks
-#- Rendezvous3
-#- Candyland2
+- KingsFortress1
+- Yellowstone
+- Embers2
+- RendezvousRedux
+- Graylands
+- FossilCanyon
+- SunbeamTemple
+- Planks
+- Rendezvous3
+- Candyland2
