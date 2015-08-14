@@ -1,25 +1,27 @@
 minimum: 0.25
 maximum: 1.2
 maps:
-- Towers #DTM
-- Port Town 2 #DTM
-- Zao 1 #TDM
-- CubeMC #CTW
-- Boolean #CTF
-- The Hallow #DTM
-- DivinesCTF #CTF
-- Crescent Subtle #DTM
-- Mistrock #DTM
-- Brushwoods #CTW
-- Sector Six #DTM
-- Yellowstone #DTM
-- Curabitur #DTM
-- Justice 3 #CTW
-- Palm Rust #DTM
-- Fossil Canyon #DTM
-- Halcyon #DTM
-- Arizona #CTW
-- Illegal Office #TDM
-- Sunbeam Temple #DTM
-- Infernus #DTM
-- Unix #DTM
+- Greenwoods     #CTH
+- PortTown2      #DTM
+- Boolean        #CTF
+- SunbeamTemple  #DTM
+- Justice3       #CTW
+- Zao1           #TDM
+- Vallis         #Nexus
+- Curabitur      #DTM
+- CubeMC         #CTW
+- Archange1      #Nexus
+- SectorSix      #DTM
+- CrescentSubtle #DTM
+- Travestia      #Nexus
+- Brushwoods     #CTW
+- KingsFortress2 #DTM
+- WorldsEnd      #Nexus
+- IllegalOffice  #TDM
+- Arizona        #CTW
+- Yellowstone    #DTM
+- DivinesCTF     #CTF
+- FossilCanyon   #DTM
+- FairyHills     #CTH
+- KnightsTower   #Walls
+- Springwood     #Walls
