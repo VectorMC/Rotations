@@ -2,9 +2,9 @@ minimum: 0.25
 maximum: 1.2
 maps:
 - Arizona
+- DragonValley
 - CarneVale
-- Rendezvous2
-- DivinesCTF
+- DivinesRedux
 - Justice3
 - FunkyFactory
 - CubeMC
