@@ -1,15 +1,14 @@
 minimum: 0.25
 maximum: 1.2
 maps:
-- Halcyon
-- KingsFortress1
-- Yellowstone
-- Embers2
+- PalmRust
+- AlphaComplex
 - RendezvousRedux
-- Graylands
-- FossilCanyon
-- SunbeamTemple
 - Formorgar1
-- Planks
-- Rendezvous3
-- Candyland2
+- Towers
+- Yellowstone
+- Infernus
+- SectorSix
+- Formorgar2
+- Clearmont1
+- KingsFortress2
