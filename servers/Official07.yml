@@ -4,6 +4,6 @@
 minimum: 0.00
 maximum: 1.2
 maps:
-- Boundaries TE
-- Dreamtime TE
-- Enoki TE
+- BoundariesTE
+- DreamtimeTE
+- EnokiTE

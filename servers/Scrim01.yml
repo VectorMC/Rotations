@@ -2,9 +2,9 @@ minimum: 0.00
 maximum: 1.2
 scrimmage: true
 maps:
-- Castle Adventure TE
-- Enoki TE
-- Boundaries TE
-- Dreamtime TE
-- Rendezvous 3 TE
-- Sunbeam Temple TE
+- CastleAdventureTE
+- EnokiTE
+- BoundariesTE
+- DreamtimeTE
+- Rendezvous3TE
+- Sunbeam TempleTE
