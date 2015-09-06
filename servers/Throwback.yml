@@ -4,12 +4,9 @@ maximum: 1.2
 maps:
 # Session 1 (Dawn)
 - Quintus #DTM
-- Divines #CTW
 - Senex1 #DTM
 - Ternio #DTM
 - VenomousDTM #DTM
-- Zalidor #DTM
-- VenomousTDM #TDM
 - RigorMortis #DTM
 - Senex2 #DTM
 - Rendezvous1 #DTM
@@ -19,21 +16,12 @@ maps:
 - Decay #DTM
 - Rendezvous2 #CTW
 - DustDevils #DTM
-- Frostbite #DTM
 # Session 2 (Dusk)
 - Fantasy #DTM
-- DiamondShore #DTM
 - Honeycomb #DTM
 - Justice1 #DTM
 - Teres #DTM
 - Luar #DTM
-- Mystic #DTM
-- StainedPastures #DTM
-- Wasteland #DTM
 - Volcano #DTM
 - Halcyon #DTM
-- Sandstorm #DTM
-- NordicHoliday #DTM
 - HauntedHallows #DTM
-- Proelium #DTM
-- ClayWars #DTM
