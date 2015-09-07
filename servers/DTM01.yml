@@ -1,10 +1,8 @@
 minimum: 0.25
 maximum: 1.2
 maps:
-- PalmRust
 - AlphaComplex
 - RendezvousRedux
-- Formorgar1
 - KingsAndLords
 - Towers
 - Yellowstone
