@@ -1,10 +1,13 @@
 minimum: 0.10
 maximum: 1.2
 maps:
-- Sakura
 - Starburst
-- Necro
+- Greenwoods
 - Quicksand
-- FairyHills
 - Polarix
 - TheFall
+- FairyHills
+- BrokenStar
+- Necro
+- Altaris
+- Tarteros

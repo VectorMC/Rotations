@@ -1,10 +1,8 @@
 minimum: 0.18
 maximum: 1.2
 maps:
-- TetrisWinter
-- TheVale
-- Vanilla
-- Springwood
-- Lands
-- TetrisJungle
-- PiratesCove
+- Tinyjungle
+- Hawaii
+- MiniWalls
+- MiniMushrooms
+- Smallcrypt

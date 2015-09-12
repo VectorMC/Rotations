@@ -1,21 +1,27 @@
 # All of them
-minimum: 0.33
+minimum: 0.25
 maximum: 1.2
 maps:
-- Fissura #DTM
-- Divines #CTW
+# Session 1 (Dawn)
+- Quintus #DTM
 - Senex1 #DTM
 - Ternio #DTM
 - VenomousDTM #DTM
-- Zalidor #DTM
-- VenomousTDM #TDM
 - RigorMortis #DTM
 - Senex2 #DTM
 - Rendezvous1 #DTM
 - CastleAdventure #DTM
-- Quintus #DTM
+- Fissura #DTM
 - Crusade #DTM
 - Decay #DTM
 - Rendezvous2 #CTW
 - DustDevils #DTM
-- Frostbite #DTM
+# Session 2 (Dusk)
+- Fantasy #DTM
+- Honeycomb #DTM
+- Justice1 #DTM
+- Teres #DTM
+- Luar #DTM
+- Volcano #DTM
+- Halcyon #DTM
+- HauntedHallows #DTM

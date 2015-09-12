@@ -1,13 +1,17 @@
 minimum: 0.25
 maximum: 1.2
 maps:
-- CastleAdventure
-- Infernus1
-- Radiation
-- Vesper
-- Gladekeep
-- MuteCity2
-- AlphaComplex
-- Formorgar1
+- DryHeaven1
+- Tunnels
+- JungleWarfare
 - SunbeamTemple
-- CrescentChaos
+- Mistrock
+- Candyland2
+- Senex3
+- Bermuda
+- Unix
+- Embers2
+- Graylands
+- Planks
+
+

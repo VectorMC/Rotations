@@ -11,7 +11,7 @@ This repository stores configuration files for the servers on The Avicus Network
 
 ### Contributing
 
-Requests will be granted by the development and map development team on Avicus. The following rules must be followed for your reuqests to be considered:
+Requests will be granted by the development and map development team on Avicus. The following rules must be followed for your requests to be considered:
 
 * Ensure all map names are valid and exist in the Avicus Network maps repository, found at [maps.avicus.net](https://maps.avicus.net).
 * Pull requests should contain single changes to a rotation. If you wish to make multiple changes, a pull request should be made for each one.

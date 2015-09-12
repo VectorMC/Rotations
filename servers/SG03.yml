@@ -11,14 +11,12 @@ maps:
 - LobbySG
 - LobbySG
 selection:
-- SurvivalGames2
-- SurvivalGames1
 - Chernobyl2015
-- SunsetValley
-- Gaia
-- RapturousDrift
-- InsanityCause
-- ShadyHollow
-- LittleHaven
-- SurvivalGames7
 - DryBoneValley
+- FortressPyke
+- Highway
+- HowlingMountains
+- MoonlightLake
+- SurvivalGames1
+- SurvivalGames4
+- SolarFrost

@@ -1,20 +1,25 @@
 minimum: 0.25
 maximum: 1.2
 maps:
-- AlphaComplex #DTM
-- IllegalOffice #TDM
-- Rendezvous2 #CTW
-- Justice1 #DTM
-- CastleAdventure #DTM
-- Arizona #CTW
-- CrescentChaos #DTM
-- Justice2 #DTM
-- CubeMC #CTW
-- Clearmont #DTM
-- Embers2 #DTM
-- Justice3 #CTW
-- Infernus1 #DTM
-- PortTown2 #DTM
-- CarneVale #CTW
-- Zao1 #TDM
-- SunbeamTemple #DTM
+- Greenwoods     #CTH
+- PortTown2      #DTM
+- Boolean        #CTF
+- SunbeamTemple  #DTM
+- Justice3       #CTW
+- Zao1           #TDM
+- Vallis         #Nexus
+- Curabitur      #DTM
+- DragonValley   #CTW
+- Archange1      #Nexus
+- SectorSix      #DTM
+- CrescentSubtle #DTM
+- Travestia      #Nexus
+- Brushwoods     #CTW
+- KingsFortress2 #DTM
+- WorldsEnd      #Nexus
+- IllegalOffice  #TDM
+- Arizona        #CTW
+- Yellowstone    #DTM
+- DivinesRedux   #CTF
+- FossilCanyon   #DTM
+- FairyHills     #CTH

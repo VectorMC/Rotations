@@ -2,16 +2,11 @@ minimum: 0.25
 maximum: 1.2
 maps:
 - Arizona
-- Sanatorium
+- DragonValley
 - CarneVale
-- Rendezvous2
+- DivinesRedux
 - Justice3
-- Divines
-- Lotus
-- Dreadlock
-- CubeMC
+- FunkyFactory
+- Boolean
 - CobwebHills
 - Brushwoods
-- Taurtis
-- QHacktivism
-- Nucleus

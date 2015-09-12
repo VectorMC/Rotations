@@ -1,15 +1,15 @@
-minimum: 0.33
+minimum: 0.25
 maximum: 1.2
 maps:
-- Periculum
-- Actrix
-- AlexandersCanyon
-- Eclipse
-- Zao1
-- GoldRush
-- Chaos
-- Raptors
-- Zao2
-- ScorchedEarthTDM
-- IllegalOffice
 - KnucklesAndBrokenGoggles
+- Zao1
+- Spookghetto
+- IllegalOffice
+- Zao2
+- Periculum
+- GoldRush
+- Azeron
+- Harena
+- Raptors
+- Actrix
+- Scizor
