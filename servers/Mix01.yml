@@ -6,7 +6,7 @@ maps:
 - Boolean        #CTF
 - SunbeamTemple  #DTM
 - Justice3       #CTW
-- Zao1           #TDM
+- Gladiator      #TDM
 - Vallis         #Nexus
 - Curabitur      #DTM
 - DragonValley   #CTW
@@ -17,7 +17,7 @@ maps:
 - Brushwoods     #CTW
 - KingsFortress2 #DTM
 - WorldsEnd      #Nexus
-- Gladiator      #TDM
+- Zao1           #TDM
 - Arizona        #CTW
 - Yellowstone    #DTM
 - DivinesRedux   #CTF
