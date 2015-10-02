@@ -4,7 +4,6 @@ maps:
 - Greenwoods     #CTH
 - PortTown2      #DTM
 - Boolean        #CTF
-- Gladiator      #TDM
 - SunbeamTemple  #DTM
 - Justice3       #CTW
 - Zao1           #TDM
@@ -18,7 +17,7 @@ maps:
 - Brushwoods     #CTW
 - KingsFortress2 #DTM
 - WorldsEnd      #Nexus
-- IllegalOffice  #TDM
+- Gladiator      #TDM
 - Arizona        #CTW
 - Yellowstone    #DTM
 - DivinesRedux   #CTF
