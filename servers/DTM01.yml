@@ -2,6 +2,7 @@ minimum: 0.25
 maximum: 1.2
 maps:
 - AlphaComplex
+- Formorgar1
 - RendezvousRedux
 - Towers
 - Yellowstone
