@@ -1,16 +1,11 @@
 minimum: 0.1
 maximum: 1.2
 maps:
-- DryHeaven1
-- Tunnels
-- JungleWarfare
 - SunbeamTemple
-- Mistrock
 - Candyland2
 - Senex3
 - Bermuda
 - Unix
-- Embers2
-- Graylands
+- VerdonFortress
 - Planks
 - HauntedHallows
