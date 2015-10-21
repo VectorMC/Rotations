@@ -2,7 +2,7 @@ minimum: 0.1
 maximum: 1.2
 maps:
 - Dredmor
-- Travincal1
+- Travincal
 - Canyon
 - FeralParadise
 - DesertedParadise
@@ -10,7 +10,7 @@ maps:
 - Archange1
 - Candoria
 - Travincal2
-- DragonblazePeaks1
+- DragonblazePeaks
 - MajesticSkies
 - Arkashia
 - WorldsEnd
