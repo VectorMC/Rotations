@@ -1,16 +1,11 @@
 minimum: 0.1
 maximum: 1.2
 maps:
-- AlphaComplex
-- Formorgar1
 - RendezvousRedux
-- PalmRust
-- Cavum
-- Yellowstone
-- Invictus
-- Infernus
+- MuteCity1
 - SectorSix
-- Formorgar2
-- Clearmont1
-- MuteCity2
+- VerdonFortress
+- Candyland2
+- AlphaComplex
+- Justice2
 - HauntedHallows
