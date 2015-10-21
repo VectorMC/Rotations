@@ -1,11 +1,11 @@
 minimum: 0.1
 maximum: 1.2
 maps:
-- SunbeamTemple
-- Candyland2
 - Senex3
+- Infernus
+- Mistrock
+- CrescentSubtle
+- Formorgar1
+- SunbeamTemple
 - Unix
-- Centaurus
-- VerdonFortress
-- Planks
 - HauntedHallows
