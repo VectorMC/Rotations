@@ -1,14 +1,10 @@
 minimum: 0.18
 maximum: 1.2
 maps:
-- BlueCove
 - WildWest
 - PiratesCove
-- KnightsTower
 - Garden
 - Overworld
 - TheVillage
 - TetrisSwamp
-- Ascent
 - TropicalFalls
-- TheVale
