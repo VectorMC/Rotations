@@ -1,26 +1,21 @@
 minimum: 0.1
 maximum: 1.2
 maps:
-- Greenwoods     #CTH
-- PortTown2      #DTM
-- Boolean        #CTF
-- SunbeamTemple  #DTM
-- Justice3       #CTW
-- Gladiator      #TDM
-- Vallis         #Nexus
-- Curabitur      #DTM
-- DragonValley   #CTW
-- Archange1      #Nexus
-- SectorSix      #DTM
-- CrescentSubtle #DTM
-- Travestia      #Nexus
-- Brushwoods     #CTW
-- MuteCity2      #DTM
-- WorldsEnd      #Nexus
-- Zao1           #TDM
-- Arizona        #CTW
-- Yellowstone    #DTM
-- DivinesRedux   #CTF
-- FossilCanyon   #DTM
-- FairyHills     #CTH
-- HauntedHallows #DTM
+- Greenwoods       #CTH
+- PalmRust         #DTM
+- Boolean          #CTF
+- DesertedParadise #Nexus
+- SunbeamTemple    #DTM
+- Justice3         #CTW
+- Gladiator        #TDM
+- DragonValley     #CTW
+- SectorSix        #DTM
+- CrescentSubtle   #DTM
+- Brushwoods       #CTW
+- Periculum        #TDM
+- Arizona          #CTW
+- Yellowstone      #DTM
+- NewHeaven        #Nexus
+- DivinesRedux     #CTF
+- MuteCity2        #DTM
+- Tarteros         #CTH
