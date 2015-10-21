@@ -1,8 +1,6 @@
 minimum: 0.25
 maximum: 1.2
 maps:
-- MiniMushrooms
-- Tinyjungle
-- Smallcrypt
 - Hawaii
 - MiniWalls
+- Tinyjungle
