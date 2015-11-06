@@ -2,9 +2,10 @@ minimum: 0.00
 maximum: 1.2
 scrimmage: true
 maps:
-- CastleAdventureTE
-- EnokiTE
-- BoundariesTE
-- DreamtimeTE
-- Rendezvous3TE
-- SunbeamTempleTE
+- RendezvousNewCTW
+- WahizCTW
+- SenexCTW
+- SandOceanTE
+- SunbeamCTW
+- Hyrodrin
+- WintersDayTE

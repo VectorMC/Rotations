@@ -4,6 +4,10 @@
 minimum: 0.00
 maximum: 1.2
 maps:
-- BoundariesTE
-- DreamtimeTE
-- EnokiTE
+- RendezvousNewCTW
+- WahizCTW
+- SenexCTW
+- SandOceanTE
+- SunbeamCTW
+- Hyrodrin
+- WintersDayTE
