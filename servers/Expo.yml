@@ -1,6 +1,12 @@
-minimum: 0.33
-maximum: 1.2
+minimum: 0.10
+maximum: 1.0
 maps:
+- Onyx
+- Onyx
+- Onyx
+- Onyx
+- Onyx
+selection:
 - Mynera
 - Elosis
 - Mulvis
