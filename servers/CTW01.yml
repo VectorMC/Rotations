@@ -2,6 +2,7 @@ minimum: 0.1
 maximum: 1.2
 maps:
 - Arizona
+- SenexCTW
 - DragonValley
 - DivinesRedux
 - Justice3
@@ -9,4 +10,3 @@ maps:
 - Boolean
 - CobwebHills
 - Nediac
-- SenexCTW
