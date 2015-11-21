@@ -1,21 +1,21 @@
 minimum: 0.1
 maximum: 1.2
 maps:
-- Greenwoods       #CTH
-- PalmRust         #DTM
-- Boolean          #CTF
-- DesertedParadise #Nexus
-- SunbeamTemple    #DTM
-- Justice3         #CTW
-- Gladiator        #TDM
-- CubeMC           #CTW
-- SectorSix        #DTM
-- Crescent         #DTM
-- SandOcean        #CTW
-- Periculum        #TDM
-- Arizona          #CTW
-- Yellowstone      #DTM
-- NewHeaven        #Nexus
+- Necro            #CTH
+- MuteCity3        #DTM
 - DivinesRedux     #CTF
-- MuteCity2        #DTM
-- Tarteros         #CTH
+- BlockFort        #Nexus
+- SunbeamTemple    #DTM
+- Boolean          #CTW
+- Mirage           #TDM
+- CubeMC           #CTW
+- PortTown1        #DTM
+- Rendezvous3      #DTM
+- SandOcean        #CTW
+- Actrix           #TDM
+- Arizona          #CTW
+- Senex3           #DTM
+- Canyon           #Nexus
+- Boolean          #CTF
+- MuteCity1        #DTM
+- Quicksand        #CTH
