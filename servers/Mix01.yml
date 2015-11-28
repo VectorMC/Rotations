@@ -3,19 +3,18 @@ maximum: 1.2
 maps:
 - Necro            #CTH
 - MuteCity3        #DTM
-- DivinesRedux     #CTF
 - BlockFort        #Nexus
 - SunbeamTemple    #DTM
 - Boolean1         #CTW
 - Mirage           #TDM
 - CubeMC           #CTW
 - PortTown1        #DTM
+- Tarteros         #CTH
 - Rendezvous3      #DTM
 - SandOcean        #CTW
 - Actrix           #TDM
 - Arizona          #CTW
 - Senex3           #DTM
 - Canyon           #Nexus
-- Boolean          #CTF
 - MuteCity1        #DTM
 - Quicksand        #CTH
