@@ -4,10 +4,6 @@
 minimum: 0.00
 maximum: 1.2
 maps:
-- RendezvousNewCTW
-- WahizCTW
-- SenexCTW
-- SandOceanTE
-- SunbeamCTW
-- Hyrodrin
-- WintersDayTE
+- Sentry
+- SupplyTDM
+- ActrixTE
