@@ -1,11 +1,10 @@
 minimum: 0.1
 maximum: 1.2
 maps:
-- RendezvousRedux
+- Rendezvous3
+- Unix
 - MuteCity1
-- SectorSix
-- PortTown1
-- Candyland
-- AlphaComplex
+- Curabitur
+- PalmRust
 - Justice2
-
+- PortTown2
