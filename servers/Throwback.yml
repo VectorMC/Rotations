@@ -3,22 +3,22 @@ minimum: 0.1
 maximum: 1.2
 maps:
 # Session 1 (Dawn)
-- Quintus #DTM
-- Senex1 #DTM
-- VenomousDTM #DTM
-- RigorMortis #DTM
-- Senex2 #DTM
-- Rendezvous1 #DTM
-- Ternio #DTM
-- CastleAdventure #DTM
-- Fissura #DTM
-- Crusade #DTM
-- Rendezvous2 #CTW
-- DustDevils #DTM
+- FestiveQuintus #DTM
+- FestiveSenex1 #DTM
+- FestiveVenomousDTM #DTM
+- FestiveRigorMortis #DTM
+- FestiveSenex2 #DTM
+- FestiveRendezvous1 #DTM
+- FestiveTernio #DTM
+- FestiveCastleAdventure #DTM
+- FestiveFissura #DTM
+- FestiveCrusade #DTM
+- FestiveRendezvous2 #CTW
+- FestiveDustDevils #DTM
 # Session 2 (Dusk)
-- Formorgar1 #DTM
-- CampiErbosi #DTM
-- Justice1 #DTM
-- Luar #DTM
-- CherrylandMC #DTM
-- Halcyon1 #DTM
+- FestiveFormorgar1 #DTM
+- FestiveCampiErbosi #DTM
+- FestiveJustice1 #DTM
+- FestiveLuar #DTM
+- FestiveCherrylandMC #DTM
+- FestiveHalcyon1 #DTM
