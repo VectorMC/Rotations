@@ -1,9 +1,11 @@
 minimum: 0.1
 maximum: 1.2
 maps:
+- NordicHoliday
 - Formorgar2
 - PortTown1
 - Infernus
+- Frostbite
 - SectorSix
 - Senex3
 - MuteCity3
