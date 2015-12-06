@@ -1,11 +1,15 @@
 minimum: 0.1
 maximum: 1.2
 maps:
-- NordicHoliday
-- Formorgar2
-- PortTown1
+- NordicHoliday #Holiday
 - Infernus
-- Frostbite
+- FestiveFissura #Holiday|Throwback
+- PortTown1
+- FestiveFormorgar1 #Holiday|Throwback
+- Formorgar2
+- Frostbite #Holiday
 - SectorSix
+- FestiveSenex2 #Holiday|Throwback
 - Senex3
+- FestiveLuar #Holiday|Throwback
 - MuteCity3

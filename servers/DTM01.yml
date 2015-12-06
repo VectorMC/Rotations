@@ -2,11 +2,14 @@ minimum: 0.1
 maximum: 1.2
 maps:
 - Rendezvous3
-- Unix
-- NordicHoliday
+- FestiveVenomous #Holiday|Throwback
+- Unix 
+- NordicHoliday #Holiday
 - MuteCity1
+- FestiveCampiErbosi #Holiday|Throwback
 - Curabitur
 - PalmRust
+- FestiveJustice1 #Holiday|Throwback
 - Justice2
-- Frostbite
+- Frostbite #Holiday
 - PortTown2

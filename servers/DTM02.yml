@@ -2,11 +2,14 @@ minimum: 0.1
 maximum: 1.2
 maps:
 - Candyland
+- FestiveCastleAdventure #Holiday|Throwback
 - Yellowstone
+- FestiveTernio #Holiday|Throwback
 - RendezvousRedux
-- Frostbite
+- Frostbite #Holiday
 - MuteCity2
+- FestiveSenex1 #Holiday|Throwback
 - AlphaComplex
-- NordicHoliday
+- NordicHoliday #Holiday
 - SunbeamTemple
 - Crescent
