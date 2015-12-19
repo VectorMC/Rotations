@@ -4,6 +4,7 @@
 minimum: 0.00
 maximum: 1.2
 maps:
+- Rendezvous3TE
 - Sentry
 - SupplyTDM
 - ActrixTE
