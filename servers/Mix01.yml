@@ -1,20 +1,28 @@
 minimum: 0.1
 maximum: 1.2
 maps:
-- FestiveQuintus   #DTM
-- Arizona          #CTW
-- TheFall          #CTH
-- MuteCity3        #DTM
-- Dredmor          #NEX
-- Necro            #CTH
-- PortTown2        #DTM
-- CobwebHills      #CTW
-- Mirage           #TDM
-- SandOcean        #CTW
-- PalmRust         #DTM
-- Tarteros         #CTH
-- DesertedParadise #NEX
-- FestiveUnix      #DTM
-- Silhouette       #CTH
-- CubeMC           #CTW
-- NordicHoliday    #DTM
+- Senex3
+- Arizona
+- Polarix
+- AncientLake
+- Rendezvous3
+- SectorSix
+- FossilCanyon
+- SandOcean
+- Greenwoods
+- Mirage
+- Deathlands
+- DivinesRedux
+- AbandonedPark2
+- ClayTDM
+- SunbeamTemple
+- Boolean2
+- Tarteros
+- Periculum
+- Unix
+- MuteCity3
+- PortTown2
+- DragonValley
+- Necro
+- Actrix
+- Embers2

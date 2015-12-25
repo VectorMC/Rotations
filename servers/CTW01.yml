@@ -2,9 +2,12 @@ minimum: 0.1
 maximum: 1.2
 maps:
 - CobwebHills
+- Boolean1
 - Justice3
 - SenexCTW
+- DragonValley
 - Arizona
 - SandOcean
+- Boolean2
 - CubeMC
 - DivinesRedux

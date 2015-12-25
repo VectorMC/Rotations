@@ -1,15 +1,17 @@
 minimum: 0.1
 maximum: 1.2
 maps:
-- Rendezvous3
-- FestiveVenomous #Holiday|Throwback
-- Unix 
-- NordicHoliday #Holiday
+- Infernus
 - MuteCity1
-- FestiveCampiErbosi #Holiday|Throwback
-- Curabitur
-- PalmRust
-- FestiveJustice1 #Holiday|Throwback
+- PalmRust1
+- Bermuda
+- Clearmont1
+- Unix
+- SectorSix
+- ShadowForest
+- Rendezvous3
+- Yellowstone
 - Justice2
-- Frostbite #Holiday
-- PortTown2
+- SunbeamTemple
+- FossilCanyon
+- Curabitur
