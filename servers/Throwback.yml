@@ -2,30 +2,31 @@
 minimum: 0.1
 maximum: 1.2
 maps:
-# Session 1 (Dawn)
-- Quintus #DTM
-- Senex1 #DTM
-- Venomous #DTM
-- Frostbite #DTM
-- RigorMortis #DTM
-- Senex2 #DTM
-- Rendezvous1 #DTM
 - Ternio #DTM
-- CastleAdventure #DTM
-- Fissura #DTM
-- Crusade #DTM
-- Rendezvous2 #CTW
-- DustDevils #DTM
-# Session 2 (Dusk)
-- Formorgar1 #DTM
-- DiamondShore #DTM
-- CampiErbosi #DTM
-- Sandstorm #DTM
-- Justice1 #DTM
-- AbandonedPark1 #DTM
-- Luar #DTM
-- Wasteland #DTM
+- Senex1 #DTM
 - CherrylandMC #DTM
-- BleenedRings #DTM
+- Fissura #DTM
+- Luar #DTM
 - Halcyon1 #DTM
+- Formorgar1 #DTM
+- CampiErbosi #DTM
+- Justice1 #DTM
+- Rendezvous1 #DTM
+- Quintus #DTM
+- Sandstorm #DTM
+- Ravanged #DTM
+- Venomous #DTM
 - ClayWars #DTM
+- Frostbite #DTM
+- Senex2 #DTM
+- Rendezvous2 #CTW
+- DiamondShore #DTM
+- Crusade #DTM
+- AbandonedPark1 #DTM
+- RigorMortis #DTM
+- CastleAdventure #DTM
+- DustDevils #DTM
+- Wasteland #DTM
+- BleenedRings #DTM
+
+
