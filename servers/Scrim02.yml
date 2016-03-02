@@ -1,6 +1,6 @@
 minimum: 0.00
 maximum: 1.2
-scrimmage: true
+scrim: true
 maps:
 - RendezvousNewCTW
 - WahizCTW
