@@ -1,17 +1,12 @@
 minimum: 0.1
 maximum: 1.2
 maps:
-- Yalahar
 - RendezvousRedux
-- Trenchy
-- Towers
 - MuteCity3
 - Bermuda
 - PortTown2
 - AbandonedDam
 - Embers2
-- TheHallow
 - CrescentChaos
 - AbandonedPark2
 - PalmRust2
-- TempleOfGreen
