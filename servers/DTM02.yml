@@ -1,7 +1,6 @@
 minimum: 0.1
 maximum: 1.2
 maps:
-- DryHeaven1
 - Embers1
 - PortTown1
 - CastleInTheRocks
@@ -13,6 +12,3 @@ maps:
 - Deathlands
 - Formorgar2
 - CrescentSubtle
-- DryHeaven2
-- Proelium
-
