@@ -1,27 +1,10 @@
 minimum: 0.30
 maximum: 1.0
 maps:
-- Onyx
-- Onyx
-- Onyx
-- Onyx
-- Onyx
-- Onyx
-- Onyx
-- Onyx
-- Onyx
-- Onyx
-- Onyx
-- Onyx
-- Onyx
-- Onyx
-- Onyx
-selection:
-- Campus
-- Mynera
-- Elosis
-- Frozen
-- Mulvis
-- Greeeenlit
-- Nyan
-- Aura
+- KBWarsTeams
+- KBWarsTeams
+- KBWarsTeams
+- KBWarsTeams
+- KBWarsTeams
+- KBWarsTeams
+- KBWarsTeams
