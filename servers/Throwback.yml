@@ -2,29 +2,20 @@
 minimum: 0.1
 maximum: 1.2
 maps:
-- Ternio #DTM
 - Senex1 #DTM
 - CherrylandMC #DTM
 - Fissura #DTM
-- Luar #DTM
-- Halcyon1 #DTM
 - Formorgar1 #DTM
 - CampiErbosi #DTM
 - Justice1 #DTM
-- Rendezvous1 #DTM
-- Quintus #DTM
 - Sandstorm #DTM
-- Ravanged #DTM
 - Venomous #DTM
 - ClayWars #DTM
-- Frostbite #DTM
 - Senex2 #DTM
 - Rendezvous2 #CTW
-- Crusade #DTM
 - AbandonedPark1 #DTM
 - RigorMortis #DTM
-- CastleAdventure #DTM
-- DustDevils #DTM
+- CastleAdventure #DTMM
 - BleenedRings #DTM
 
 
