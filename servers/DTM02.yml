@@ -1,6 +1,7 @@
 minimum: 0.1
 maximum: 1.2
 maps:
+- YinYang
 - Embers1
 - PortTown1
 - CastleInTheRocks
