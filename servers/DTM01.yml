@@ -1,6 +1,7 @@
 minimum: 0.1
 maximum: 1.2
 maps:
+- Cavum
 - MuteCity1
 - PalmRust1
 - Clearmont1
