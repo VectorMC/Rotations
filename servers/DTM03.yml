@@ -1,6 +1,7 @@
 minimum: 0.1
 maximum: 1.2
 maps:
+- SquaredNature
 - RendezvousRedux
 - Infernus
 - Justice2
