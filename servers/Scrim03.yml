@@ -2,10 +2,8 @@ minimum: 0.00
 maximum: 1.2
 scrim: true
 maps:
-- RendezvousNewCTW
-- WahizCTW
-- SenexCTW
-- SandOceanTE
-- SunbeamCTW
-- Hyrodrin
-- WintersDayTE
+- Injustice
+- Supply
+- Crossfire
+- ArcadiaTE
+- XenaTE
