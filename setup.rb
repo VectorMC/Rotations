@@ -8,6 +8,7 @@ Dir.foreach('servers') do |rot|
   Dir.foreach('../servers') do |server|
     if rot.casecmp(server).zero?
       src = "servers/#{rot}"
+      next unless File.exist?("../servers/#{server}/plugins/Atlas")
       dest = "../servers/#{server}/plugins/Atlas/rotation.txt"
       puts "#{src} -> #{dest}"
       FileUtils.cp_r(src, dest)
