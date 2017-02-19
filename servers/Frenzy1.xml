@@ -1,21 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rotation>
     <map>TreeFrog</map>
-    <map>FreezingPoint</map>
-    <map>Elevated2</map>
-    <map>Salzburg</map>
     <map>Campfire</map>
-    <map>Elevated</map>
-    <map>Spore</map>
-    <map>Dustdrive</map>
     <map>SupplyFrenzy</map>
     <map>TwilightMars</map>
     <map>RockyPasture</map>
-    <map>Salzburg2</map>
-    <map>Shadient</map>
-    <map>Simon</map>
     <map>Nautica</map>
-    <map>Presta</map>
-    <map>KnucklesAndBrokenGoggles</map>
     <map>Asylum</map>
 </rotation>

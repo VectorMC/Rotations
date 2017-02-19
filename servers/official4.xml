@@ -2,7 +2,5 @@
 <rotation>
     <map>Static</map>
     <map>HoldFast</map>
-    <map>RendezvousChampions</map>
-    <map>BooleanTE</map>
     <map>Outbreak</map>
 </rotation>
