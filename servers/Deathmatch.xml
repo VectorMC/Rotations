@@ -2,7 +2,6 @@
 <rotation>
     <map>Dredmor</map>
     <map>Arkashia</map>
-    <map>Canyon</map>
     <map>FeralParadise</map>
     <map>NewHeaven</map>
     <map>WorldsEnd</map>
@@ -10,4 +9,5 @@
     <map>TreeFrog</map>
     <map>Dustdrive</map>
     <map>DragonsDen</map>
+    <map>IllegalOffice</map>
 </rotation>
