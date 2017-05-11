@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rotation>
+    <map>Quintus</map>
     <map>Solvite</map>
-    <map>Sunbeam Temple</map>
-    <map>Arizona</map>
+    <map>Campi Erbosi 2</map>
     <map>Phendrana Sanctuary</map>
     <map>TallonOverworld</map>
+    <map>Atlantis</map>
     <map>Terra CTF</map>
     <map>The Badlands</map>
-    <map>Wool Terrace</map>
+    <map>Ponylands2</map>
+    <map>Deadlock</map>
+    <map>EnderHill</map>
+    <map>MaisosenPotions</map>
+    <map>Dredmor</map>
     <map>Sweet Slopes</map>
 </rotation>
