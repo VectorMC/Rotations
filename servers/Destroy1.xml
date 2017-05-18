@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rotation>
     <map>Dust Devils</map>
-    <map>Halcyon I</map>
-    <map>Rendezvous Redux</map>
-    <map>YinYang</map>
-    <map>Luar Remastered</map>
-    <map>Fissura</map>
-    <map>Senex 2</map>
-    <map>Campi Erbosi Origins</map>
-    <map>Port Town 2</map>
-    <map>Castle Adventure</map>
-    <map>BerrylandMCDTC</map>
-    <map>Arida</map>
+    <map>Sunbeam Temple</map>
+    <map>Rendezvous</map>
+    <map>Justice 2</map>
+    <map>Daisy</map>
+    <map>Clay Wars</map>
+    <map>Senex 1</map>
+    <map>Broken World</map>
+    <map>Atromix</map>
+    <map>Candyland</map>
 </rotation>
