@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rotation>
-    <map>Kollad</map>
-    <map>Nevran Remastered</map>
-    <map>Sunbeam Temple Remastered</map>
-    <map>Unix</map>
+    <map>Railway</map>
     <map>Formorgar 2</map>
-    <map>Starshine Beach</map>
-    <map>Halcyon I</map>
-    <map>Dust Devils</map>
-    <map>Rendezvous Redux</map>
-    <map>Sandstorm</map>
+    <map>Unix</map>
     <map>Proelium1.5</map>
+    <map>Dust Devils</map>
+    <map>Sandstorm</map>
     <map>Ravanged</map>
-    <map>Luar: Origins</map>
+    <map>Senex 1</map>
+    <map>Senex 2</map>
+    <map>Campi Erbosi Origins</map>
+    <map>Sector Six</map>
+    <map>Port Town 1</map>
+    <map>Tallon Overworld</map>
 </rotation>
