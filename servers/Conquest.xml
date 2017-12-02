@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rotation>
-    <map>Green Hill Zone</map>
-    <map>Overgrown</map>
-    <map>City Scape</map>
-    <map>U-Bahn</map>
-    <map>Downtown</map>
-    <map>SuperPRISM</map>
-    <map>Actrix 2</map>
-    <map>Ruins of the User</map>
-    <map>Ancient Lake</map>
-    <map>Illegal Office</map>
-    <map>Nevadaca</map>
-    <map>Abandoned Castle CTF</map>
-    <map>Dredmor</map>
-    <map>Stadium Arcadium</map>
+    <map>City Scape</map>                 <!-- KoTH -->
+    <map>Concourse</map>                  <!-- KoTF -->
+    <map>Heeled</map>                     <!-- CTF -->
+    <!-- <map>Facility</map> -->          <!-- TDM -->
+    <map>Stadium Arcadium</map>           <!-- FFA -->
+    <map>The Old Texas</map>              <!-- KoTH -->
+    <map>Green Hill Zone</map>            <!-- KoTH -->
+    <map>Good Morning Vietnam</map>       <!-- CTF -->
+    <map>Actrix 2</map>                   <!-- TDM -->
+    <map>The Grove</map>                  <!-- KoTF -->
+    <!-- <map>University</map> -->        <!-- FFA -->
+    <!-- <map>BlockBlock</map> -->        <!-- TDM -->
 </rotation>
+
+<!-- Conquest Map Statistics
+KoTH: 3
+CTF: 2
+FFA: 2
+KoTF: 2
+TDM: 3 
+-->
+
