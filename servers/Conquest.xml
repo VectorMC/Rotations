@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rotation>
-    <map>City Scape</map>                 <!-- KoTH -->
-    <map>Concourse</map>                  <!-- KoTF -->
-    <map>Heeled</map>                     <!-- CTF -->
-    <map>Facility</map>                   <!-- TDM -->
-    <map>Block Fort</map>                 <!-- FFA -->
-    <map>Foundry</map>                    <!-- 5CP -->
-    <map>Green Hill Zone</map>            <!-- KoTH -->
-    <map>Good Morning Vietnam</map>       <!-- CTF -->
-    <map>Actrix 2</map>                   <!-- TDM -->
-    <map>The Grove</map>                  <!-- KoTF -->
-    <map>University</map>                 <!-- FFA -->
-    <!-- <map>BlockBlock</map> -->        <!-- TDM -->
+    <map>City Scape</map>
+    <map>Concourse</map>
+    <map>Heeled</map>
+    <map>Facility</map>
+    <map>Block Fort</map>
+    <map>Foundry</map>
+    <map>Green Hill Zone</map>
+    <map>Good Morning Vietnam</map>
+    <map>Actrix 2</map>
+    <map>The Grove</map>
+    <map>University</map>
+    <map>BlockBlock</map>
 </rotation>
-
-<!-- Conquest Map Statistics
-KoTH: 2
-CTF: 2
-FFA: 2
-5CP: 1
-KoTF: 2
-TDM: 3 
--->
-
