@@ -4,7 +4,7 @@
     <map>Concourse</map>                  <!-- KoTF -->
     <map>Heeled</map>                     <!-- CTF -->
     <map>Facility</map>                   <!-- TDM -->
-    <!-- <map>Block Fort</map> -->        <!-- FFA -->
+    <map>Block Fort</map>                 <!-- FFA -->
     <map>Foundry</map>                    <!-- 5CP -->
     <map>Green Hill Zone</map>            <!-- KoTH -->
     <map>Good Morning Vietnam</map>       <!-- CTF -->
@@ -15,7 +15,7 @@
 </rotation>
 
 <!-- Conquest Map Statistics
-KoTH: 3
+KoTH: 2
 CTF: 2
 FFA: 2
 5CP: 1
