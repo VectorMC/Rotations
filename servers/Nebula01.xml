@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rotation>
+<rotations>
+  <rotation max="200" min="0" name="Default">
     <map>Quintus: Origins</map>
     <map>Halcyon I</map>
     <map>Frostbite</map>
@@ -14,4 +15,5 @@
     <map>Zalidor</map>
     <map>Nordic Holiday</map>
     <map>Rendezvous 3</map>
-</rotation>
+  </rotation>
+</rotations>

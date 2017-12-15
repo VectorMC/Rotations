@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rotation>
+<rotations>
+  <rotation max="200" min="0" name="Default">
     <map>Garden</map>
     <map>Mt. Blizzard</map>
     <map>Lands</map>
@@ -10,4 +11,5 @@
     <map>Ruins Ascension</map>
     <map>Tetris Jungle</map>
     <map>Grotto Arena</map>
-</rotation>
+  </rotation>
+</rotations>

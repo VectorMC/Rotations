@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rotation>
+<rotations>
+  <rotation max="200" min="0" name="Default">
     <map>A Quiet Night in Formorgar 2</map>
     <map>Unix Holiday</map>
     <map>Mossii</map>
@@ -17,4 +18,5 @@
     <map>Frozen Urbex</map>
     <map>Reindeervous</map>
     <map>The Mines</map>
-</rotation>
+  </rotation>
+</rotations>

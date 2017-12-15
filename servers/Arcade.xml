@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rotation>
-  <map>Cartz</map>
-  <map>Chopped</map>
-  <map>OiTQCampus</map>
-  <map>Audax</map>
-  <map>Aura</map>
-</rotation>
+<rotations>
+  <rotation max="200" min="0" name="Default">
+    <map>Cartz</map>
+    <map>Chopped</map>
+    <map>OiTQCampus</map>
+    <map>Audax</map>
+    <map>Aura</map>
+  </rotation>
+</rotations>
