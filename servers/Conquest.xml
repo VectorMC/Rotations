@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rotations>
   <rotation max="200" min="0" name="Default">
-    <map>Green Hill Zone</map>
-    <map>Overgrown</map>
-    <map>City Scape</map>
-    <map>U-Bahn</map>
-    <map>Downtown</map>
-    <map>SuperPRISM</map>
-    <map>Actrix 2</map>
-    <map>Ruins of the User</map>
-    <map>Ancient Lake</map>
-    <map>Illegal Office</map>
-    <map>Nevadaca</map>
-    <map>Abandoned Castle CTF</map>
     <map>Dredmor</map>
-    <map>Stadium Arcadium</map>
+    <map>Arkashia</map>
+    <map>Vallis</map>
+    <map>WorldsEnd</map>
   </rotation>
 </rotations>
