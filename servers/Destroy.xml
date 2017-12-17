@@ -2,21 +2,21 @@
 <rotations>
   <rotation max="200" min="0" name="Default">
     <map>A Quiet Night in Formorgar 2</map>
-    <map>Unix Holiday</map>
-    <map>Mossii</map>
+    <map>A Gift of Quintus</map>
+    <map>Floe</map>
     <map>Winter in the Dust Devils</map>
     <map>Snowstorm</map>
-    <map>Ravanged</map>
+    <map>Ravanged Holiday</map>
     <map>Snowex 1</map>
-    <map>Snowex 2</map>
-    <map>Snowi Erbosi</map>
     <map>Sector Twenty Five</map>
     <map>Snowy Port 1</map>
     <map>Oasis</map>
-    <map>Snowy City 2</map>
-    <map>Snowball Fight</map>
-    <map>Frozen Urbex</map>
+    <map>Snowy Overworld</map>
+    <map>Luar Holiday</map>
     <map>Reindeervous</map>
-    <map>The Mines</map>
+    <map>Ternio Holiday</map>
+    <map>Zalidor</map>
+    <map>Mossii</map>
+    <map>SquaredNature</map>
   </rotation>
 </rotations>
