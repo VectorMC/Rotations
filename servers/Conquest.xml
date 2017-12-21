@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rotation>
-    <map>City Scape</map>
-    <map>Concourse</map>
-    <map>Heeled</map>
-    <map>Facility</map>
-    <map>Block Fort</map>
-    <map>Foundry</map>
-    <map>Green Hill Zone</map>
-    <map>Good Morning Vietnam</map>
-    <map>Actrix 2</map>
-    <map>The Grove</map>
-    <map>University</map>
-    <map>BlockBlock</map>
-</rotation>
+<rotations>
+    <rotation max="200" min="0" name="Default">
+        <map>City Scape</map>
+        <map>Concourse</map>
+        <map>Heeled</map>
+        <map>Facility</map>
+        <map>Block Fort</map>
+        <map>Foundry</map>
+        <map>Green Hill Zone</map>
+        <map>Good Morning Vietnam</map>
+        <map>Actrix 2</map>
+        <map>The Grove</map>
+        <map>University</map>
+        <map>BlockBlock</map>
+    </rotation>
+</rotations>
