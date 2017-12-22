@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rotations>
   <rotation max="200" min="0" name="Default">
-    <map>Quintus: Origins</map>
-    <map>Halcyon I</map>
-    <map>Frostbite</map>
-    <map>Luar: Origins</map>
-    <map>Venomous TDM</map>
+    <map>Radiation</map>
+    <map>Planks</map>
+    <map>The Hallow</map>
+    <map>Castle Adventure</map>
+    <map>Checkmate</map>
+    <map>Formorgar 1</map>
+    <map>Trenchy</map>
+    <map>Unix</map>
+    <map>Coconut DTM</map>
+    <map>Bleened Rings Origins</map>
+    <map>Mistrock</map>
+    <map>Senex 1</map>
+    <map>Minefield</map>
     <map>Broken World</map>
-    <map>Senex 3</map>
-    <map>Fissura</map>
-    <map>Diamond Shore</map>
-    <map>Ternio</map>
-    <map>Palm Rust Origins</map>
-    <map>Zalidor</map>
-    <map>Nordic Holiday</map>
-    <map>Rendezvous 3</map>
+    <map>Gladiator</map>
   </rotation>
 </rotations>
