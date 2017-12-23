@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rotations>
   <rotation max="200" min="0" name="Default">
-    <map>Luar orogins</map>
+    <map>Luar: Origins</map>
     <map>Gold Rush</map>
     <map>Sandstorm</map>
     <map>BooleanClassic</map>
