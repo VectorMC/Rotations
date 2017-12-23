@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rotations>
   <rotation max="200" min="0" name="Default">
-    <map>Radiation</map>
-    <map>Planks</map>
-    <map>The Hallow</map>
-    <map>Castle Adventure</map>
-    <map>Checkmate</map>
-    <map>Formorgar 1</map>
-    <map>Trenchy</map>
-    <map>Unix</map>
-    <map>Coconut DTM</map>
-    <map>Bleened Rings Origins</map>
-    <map>Mistrock</map>
-    <map>Senex 1</map>
-    <map>Minefield</map>
-    <map>Broken World</map>
-    <map>Gladiator</map>
+    <map>Luar orogins</map>
+    <map>Gold Rush</map>
+    <map>Sandstorm</map>
+    <map>BooleanClassic</map>
+    <map>Fissura</map>
+    <map>Venomous TDM</map>
+    <map>Clay Wars</map>
+    <map>Rendezvous</map>
+    <map>Rigor Mortis</map>
+    <map>Volcano</map>
+    <map>Ternio</map>
+    <map>Curabitir</map>
+    <map>Justice 1</map>
+    <map>Zalidor</map>
+    <map>Alpha Complex</map>
+    <map>Wasteland</map>
   </rotation>
 </rotations>
