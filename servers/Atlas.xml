@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rotations shuffle="false">
+<rotations shuffle="true">
+    <map>BerryLandMC DTC</map>
+    <map>Embers 1</map>
     <map>Formorgar 2</map>
     <map>Unix</map>
-    <map>Mossii</map>
-    <map>Dust Devils</map>
-    <map>Sandstorm</map>
-    <map>Ravanged</map>
     <map>Senex 1</map>
+    <map>Mossii</map>
     <map>Senex 2</map>
-    <map>Campi Erbosi Origins</map>
     <map>Sector Six</map>
     <map>Port Town 1</map>
-    <map>Oasis</map>
     <map>Mute City 2</map>
-    <map>Clay Wars</map>
     <map>Aquatic Urbex</map>
     <map>Rendezvous</map>
     <map>The Mines</map>
